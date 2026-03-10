@@ -1,0 +1,8 @@
+schema_version: '1.0'
+repo: example-interactive-installation
+organ: II
+display_name: Reference implementation for sensor-driven interactive art installations
+  with depth cameras, LIDAR, and spatial audio
+delivery:
+- platform: web_app
+  status: not_started
